@@ -1,7 +1,7 @@
 {
     "name": "iron-man/sylius-product-on-demand-plugin",
     "description": "Plugin allowing to mark product variants as available on demand in Sylius.",
-    "version": "1.0.6",
+    "version": "1.0.8",
     "type": "sylius-plugin",
     "keywords": [
         "sylius",
@@ -62,7 +62,7 @@
     },
     "autoload": {
         "psr-4": {
-            "IronMan\\SyliusProductOnDemandPlugin\\": "src/",
+            "": "src/",
             "Tests\\IronMan\\SyliusProductOnDemandPlugin\\": "tests/"
         }
     },
