@@ -9,6 +9,6 @@ class testController extends AbstractController
 {
     public function index(): Response
     {
-        return $this->render("test.html.twig");
+        return $this->render("@IronManSyliusProductOnDemandPlugin/test.html.twig");
     }
 }
