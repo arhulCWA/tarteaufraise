@@ -259,6 +259,40 @@
       <path value="$PROJECT_DIR$/vendor/willdurand/jsonp-callback-validator" />
       <path value="$PROJECT_DIR$/vendor/fidry/cpu-core-counter" />
       <path value="$PROJECT_DIR$/vendor/ezyang/htmlpurifier" />
+      <path value="$PROJECT_DIR$/tests/Application/vendor/composer" />
+      <path value="$PROJECT_DIR$/tests/Application/vendor/symfony/cache-contracts" />
+      <path value="$PROJECT_DIR$/tests/Application/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/tests/Application/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/tests/Application/vendor/symfony/filesystem" />
+      <path value="$PROJECT_DIR$/tests/Application/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/tests/Application/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/tests/Application/vendor/symfony/config" />
+      <path value="$PROJECT_DIR$/tests/Application/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/tests/Application/vendor/symfony/maker-bundle" />
+      <path value="$PROJECT_DIR$/tests/Application/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/tests/Application/vendor/symfony/var-exporter" />
+      <path value="$PROJECT_DIR$/tests/Application/vendor/symfony/string" />
+      <path value="$PROJECT_DIR$/tests/Application/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/tests/Application/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/tests/Application/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/tests/Application/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/tests/Application/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/tests/Application/vendor/symfony/error-handler" />
+      <path value="$PROJECT_DIR$/tests/Application/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/tests/Application/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/tests/Application/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/tests/Application/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/tests/Application/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/tests/Application/vendor/symfony/cache" />
+      <path value="$PROJECT_DIR$/tests/Application/vendor/psr/event-dispatcher" />
+      <path value="$PROJECT_DIR$/tests/Application/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/tests/Application/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/tests/Application/vendor/symfony/polyfill-php83" />
+      <path value="$PROJECT_DIR$/tests/Application/vendor/symfony/polyfill-intl-grapheme" />
+      <path value="$PROJECT_DIR$/tests/Application/vendor/symfony/framework-bundle" />
+      <path value="$PROJECT_DIR$/tests/Application/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/tests/Application/vendor/symfony/dependency-injection" />
+      <path value="$PROJECT_DIR$/tests/Application/vendor/nikic/php-parser" />
     </include_path>
   </component>
   <component name="PhpProjectSharedConfiguration" php_language_level="8.0" />

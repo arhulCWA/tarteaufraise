@@ -1,1 +1,2 @@
-
+sylius_shop_default_locale:
+    resource: "@IronManSyliusProductOnDemandPlugin/Resources/config/app/routing/shop/routing.yaml"
