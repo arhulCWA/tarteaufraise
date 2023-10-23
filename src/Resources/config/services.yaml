@@ -1,4 +1,4 @@
 services:
     IronMan\SyliusProductOnDemandPlugin\Controller\testController:
-        auto-wire: true
+        autowire: true
         autoconfigure: true
