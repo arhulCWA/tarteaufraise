@@ -2,4 +2,4 @@ ironman_test_page:
     path: /ironman-test
     methods: [GET]
     defaults:
-        _controller: ironman.sylius_product_on_demand_plugin.controller.test_controller::index
+        _controller: 'IronMan\SyliusProductOnDemandPlugin\Controller\testController::index'
