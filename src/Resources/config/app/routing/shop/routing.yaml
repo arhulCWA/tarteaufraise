@@ -1,5 +1,3 @@
 ironman_test_page:
     path: /ironman-test
-    methods: [GET]
-    defaults:
-        _controller: 'IronMan\SyliusProductOnDemandPlugin\Controller\testController::index'
+    controller: 'IronMan\SyliusProductOnDemandPlugin\Controller\testController::index'
